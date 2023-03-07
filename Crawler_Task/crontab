@@ -1,0 +1,1 @@
+* * * * * /usr/local/bin/python /usr/src/app/instagram_crawler.py --update-db > /proc/1/fd/1 2>/proc/1/fd/2
